@@ -1,2 +1,4 @@
 # jovem-hacker-tema
-## um subsite do NIED
+
+- Tema usado no site do NIED, site desenvolvido com WordPress.
+- Tema construído para usar em sites Wordpress, usando php, html e css
